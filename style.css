@@ -19,10 +19,10 @@ body {
   padding: 24px;
   width: 800px;
   border-radius: 24px;
-  margin: 48px auto;
+  margin: 48px auto 28px;
 }
 
-img {
+#page img {
   border-radius: 16px;
   filter: drop-shadow(rgba(0, 0, 0, 0.185) 0.3rem 0.3rem 3px);
 }
@@ -61,4 +61,17 @@ p, li {
   line-height: 150%;
   font-size: 16px;
   color: #573A37;
+}
+
+footer {
+  padding-bottom: 48px;
+  color: #F0E8C2;
+  text-align: center;
+  font-size: 16px;
+  line-height: 150%;
+}
+
+footer img {
+  margin: 0px 4px;
+  vertical-align: middle;
 }
