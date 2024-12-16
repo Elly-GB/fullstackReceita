@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Página de Receita" src=".github/preview.jpg" width="100%">
 </p>
 
 ## ⭐️ Tecnologias
@@ -26,7 +26,6 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Figma
 - Git e Github
 

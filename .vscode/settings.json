@@ -19,7 +19,7 @@
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Omni",
 
-  // prettier
+  // prettier...
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.enable": true,
   "prettier.singleQuote": false,
