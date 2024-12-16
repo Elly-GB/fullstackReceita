@@ -1,10 +1,22 @@
+
 * {
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
 }
-img {
-  border-radius: 16px;
-  filter: drop-shadow(rgba(0, 0, 0, 0.382) 0.1rem 0.1rem 3px);
+
+body {
+  background-image: url(./assets/bg-image.jpg);
+  background-size: cover;
 }
 
+#page {
+  background-color: #F0E8C2;
+  padding: 24px;
+  width: 800px;
+  border-radius: 24px;
+  margin: 48px auto;
+}
+
+img {
+  border-radius: 16px;
+  filter: drop-shadow(rgba(0, 0, 0, 0.185) 0.3rem 0.3rem 3px);
+}
